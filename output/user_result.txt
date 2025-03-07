@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-06 06:24:01,http://192.168.10.211:4022/rtp/235.254.199.51:7980
+2025-03-07 18:33:52,http://192.168.10.211:4022/rtp/235.254.199.51:7980
 
 📺央视频道,#genre#
 CCTV-1,http://192.168.10.211:4022/rtp/235.254.199.51:7980
@@ -10,7 +10,7 @@ CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2
 CCTV-3,http://192.168.10.211:4022/rtp/235.254.199.53:7980
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV-3,http://tvbox6.icu/tv/migu.php?id=cctv3
+CCTV-3,https://tv.bfsu.edu.cn/hls/cctv3hd.m3u8
 CCTV-4,http://192.168.10.211:4022/rtp/235.254.198.183:7980
 CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
@@ -22,16 +22,16 @@ CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p⁭
 CCTV-5+,http://php.jdshipin.com:8880/cqyx.php?id=CCTV5SPORTHD
 CCTV-6,http://192.168.10.211:4022/rtp/235.254.199.55:7980
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
-CCTV-6,http://tvbox6.icu/tv/migu.php?id=cctv6
+CCTV-6,https://tv.bfsu.edu.cn/hls/cctv6hd.m3u8
 CCTV-7,http://192.168.10.211:4022/rtp/235.254.199.56:7980
 CCTV-7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7
 CCTV-8,http://192.168.10.211:4022/rtp/235.254.199.57:7980
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
-CCTV-8,http://tvbox6.icu/tv/migu.php?id=cctv8
+CCTV-8,https://tv.bfsu.edu.cn/hls/cctv8hd.m3u8
 CCTV-9,http://192.168.10.211:4022/rtp/235.254.199.58:7980
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV-9,http://tvbox6.icu/tv/migu.php?id=cctv9
+CCTV-9,https://tv.bfsu.edu.cn/hls/cctv9hd.m3u8
 CCTV-10,http://192.168.10.211:4022/rtp/235.254.199.59:7980
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
@@ -43,33 +43,32 @@ CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-13,http://192.168.10.211:4022/rtp/235.254.197.162:7980
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
-CCTV-13,http://tvbox6.icu/tv/migu.php?id=cctv13
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,http://192.168.10.211:4022/rtp/235.254.199.61:7980
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-14,http://goo.bkpcp.top/mg/CCTV-14少儿少儿少儿
 CCTV-15,http://192.168.10.211:4022/rtp/235.254.197.163:7980
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-15,http://goo.bkpcp.top/mg/CCTV-15音乐音乐
-CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
 CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
+CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 CCTV-17,http://192.168.10.211:4022/rtp/235.254.198.130:7980
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17\
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
-CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
-CETV2,https://iptv.sufa518.cn:8090/itv/5000000011000031207.m3u8?cdn=bestzb
+CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
+CETV2,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV4,https://iptv.sufa518.cn:8090/itv/5000000011000031207.m3u8?cdn=bestzb
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CETV4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 
 💰央视付费频道,#genre#
 央视台球,http://goo.bkpcp.top/mg/mlzq
 央视台球,http://gat.bkpcp.top/ymg.php?id=mlzq
-风云音乐,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云音乐,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4934&tk=a0c4f6cfaba3
+风云音乐,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 风云足球,http://211.101.234.24:866/aishang/migu.php/migu.php?id=mlzq
-世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1482&tk=a0c4f6cfaba3
+风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 
 📡卫视频道,#genre#
@@ -89,13 +88,13 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 北京卫视,http://php.jdshipin.com:8880/cqyx.php?id=BEIJINGHD
 湖北卫视,http://192.168.10.211:4022/rtp/235.254.199.72:7980
 湖北卫视,http://php.jdshipin.com:8880/cqyx.php?id=HUBEISD
-湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws
+湖北卫视,http://182.37.169.94:352/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://192.168.10.211:4022/rtp/235.254.199.70:7980
+黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 黑龙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=HEILONGJIANGHD
-黑龙江卫视,http://live.wqwqwq.sbs/itv/1000000001000001925.m3u8?cdn=ystenlive
 安徽卫视,http://192.168.10.211:4022/rtp/235.254.199.65:7980
 安徽卫视,http://php.jdshipin.com:8880/cqyx.php?id=ANHUISD
-安徽卫视,http://58.221.214.82:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://59.39.89.130:60901/tsfile/live/0125_6.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://192.168.10.211:4022/rtp/235.254.197.237:7980
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 重庆卫视,http://php.jdshipin.com:8880/cqyx.php?id=CHONGQINGHD
@@ -128,10 +127,10 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 吉林卫视,http://php.jdshipin.com:8880/cqyx.php?id=JILINHD
 江苏卫视,http://192.168.10.211:4022/rtp/235.254.199.64:7980
 江苏卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGSUHD
-江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws
+江苏卫视,http://182.37.169.94:352/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://192.168.10.211:4022/rtp/235.254.199.190:7980
 江西卫视,http://php.jdshipin.com:8880/cqyx.php?id=JIANGXIHD
-江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws
+江西卫视,http://59.39.89.130:60901/tsfile/live/0125_10.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://192.168.10.211:4022/rtp/235.254.199.68:7980
 辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
 辽宁卫视,http://php.jdshipin.com:8880/cqyx.php?id=LIAONINGHD
@@ -149,10 +148,10 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 山东卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANDONGHD
 山西卫视,http://192.168.10.211:4022/rtp/235.254.199.41:7980
 山西卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANXISD
-山西卫视,http://58.221.214.82:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://110.53.52.63:8888/newlive/live/hls/43/live.m3u8
 陕西卫视,http://192.168.10.211:4022/rtp/235.254.199.40:7980
-陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws
 陕西卫视,http://gat.bkpcp.top/ymg.php?id=sxws
+陕西卫视,http://182.37.169.94:352/tsfile/live/0136_1.m3u8
 四川卫视,http://192.168.10.211:4022/rtp/235.254.199.175:7980
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 四川卫视,http://php.jdshipin.com:8880/cqyx.php?id=SICHUANHD
@@ -176,10 +175,12 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 
 ☘️重庆频道,#genre#
 秀山综合,http://192.168.10.211:4022/rtp/235.254.199.239:7980
-铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
 重庆汽摩,http://192.168.10.211:4022/rtp/235.254.199.169:7980
+重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
+潼南综合,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武隆综合,http://192.168.10.211:4022/rtp/235.254.198.227:7980
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
@@ -191,19 +192,18 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 重庆新闻,http://192.168.10.211:4022/rtp/235.254.197.199:7980
 重庆新闻,http://ls.qingting.fm/live/1498.m3u8
 重庆新闻,http://live.xmcdn.com/live/128/64.m3u8
-重庆时尚购物,https://tvliveapp.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2274934564-0-0-f80521f459ddbfed3b3853ee14ed3926
 
 🌊港·澳·台,#genre#
-翡翠台,http://iptv.diyp.tech/iptv.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840
+翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-凤凰中文,http://iptv.diyp.tech/iptv.php?key=gat1&id=22
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://iptv.diyp.tech/iptv.php?key=gat2&id=1
+凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰香港,http://iptv.diyp.tech/iptv.php?key=gat1&id=21
+凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰卫视,http://iptv.diyp.tech/iptv.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
+凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
@@ -215,10 +215,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
+三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
-东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
-东森电影,http://iptv.diyp.tech/iptv.php?key=gat1&id=202
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
